@@ -1,0 +1,62 @@
+
+/*
+Orange: #BC4719
+Teal: #30685E
+Lighter Teal: #19BDA1
+Brown: #3D2D27
+Really dark teal: #293331
+
+*/
+
+
+body {
+    background-color: #19BDA1;
+    padding: 0 24px 36px 24px;
+    color: #293331;
+    font-size: 20px;
+}
+
+h1,h2,h3 {
+    color: #293331;
+}
+
+h1, h3.sportsdesc {
+    text-align: center;
+}
+
+p {
+ padding: 36px;
+}
+
+td.rowheader {
+    font-weight: bold;
+}
+
+table {
+    border-collapse: collapse;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+th, td {
+    border: #BC4719 solid 3px;
+    padding: 6px 12px 8px 16px;
+        /*top right bottom left*/
+}
+
+img {
+    padding: 60px;
+}
+
+a {
+    color: #293331;
+}
+
+a:hover {
+    color: #BC4719;
+}
+
+ul {
+    font-weight: bold;
+    font-size: 22px;
+}
