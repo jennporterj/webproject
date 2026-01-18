@@ -1,0 +1,67 @@
+/*
+background #FFFFFF
+accent1: #517470    Valid Contrast: 5.14455
+accent2: #5C7A94    Valid Contrast: 4.50016	(alternative to my original selection)
+
+*/
+
+body {
+    padding: 64px;
+    font-size: 1.5em;
+}
+
+h1, h2, h3 {
+    color: #517470;
+}
+
+h1 {
+    text-align: center;
+}
+
+th, td {
+    border: #5C7A94 solid 5px;
+    padding: 8px 16px 8px 16px;
+        /*top right bottom left*/
+}
+
+table {
+    border-collapse: collapse;
+}
+
+a {
+    color: #517470;    
+    font-weight: bold;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #5C7A94 
+}
+
+p.textcontent {
+    background-color: #517470   ;
+    color: white;
+    width: 1000px;
+    padding: 50px;
+    border: groove ;
+    border-color: #5C7A94 ;
+    border-width: 8px;
+    margin-top: 64px;
+    margin-bottom: 64px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+div {
+    background-color: #517470;
+    width: 646px;
+    padding: 24px;
+    border: double;
+    border-width: 30px;
+    border-color: #5C7A94;
+    margin-top: 24px;
+    margin-bottom: 24px;
+    margin-left: 48px;
+    margin-right: 48px;
+}
+
